@@ -1,8 +1,12 @@
-import Header from './components/Header';
+import BackgroundImage from "./components/BackgroundImage";
+import DestinyGrid from "./components/DestinyGrid";
 
 function App() {
   return (
-    <Header />
+    <>
+      <BackgroundImage />
+      <DestinyGrid />
+    </>
   );
 }
 

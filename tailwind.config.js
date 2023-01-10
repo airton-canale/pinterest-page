@@ -6,7 +6,9 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'roboto': ['Roboto', 'Helvetica', 'sans-serif']
+        'roboto': ['Roboto', 'Helvetica', 'sans-serif'],
+        'ibm-plex': ['IBM Plex Serif', 'Helvetica', 'sans-serif']
+
     },
   },
   plugins: [],
