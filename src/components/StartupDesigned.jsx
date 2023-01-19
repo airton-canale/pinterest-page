@@ -19,23 +19,26 @@ const StartupDesined = ({ inverted }) => {
       >
         <div className="flex flex-col gap-4">
           <div>
-            <h1>Destiny isn`t A.I, its result of human intelligence.</h1>
-            <p>
-              No home mel, eu persecuti, id ius mutat gubergreen, eros harum
-              henderit ex eos, in qua vocibus inimics gubergren
-            </p>
+            <h1 className="text-3xl">
+              <strong>Designed for Startups & brands.</strong>
+            </h1>
           </div>
+          <p>
+            Just get the code and sit tight, you will witness its power and
+            performance in lead generations, is simple yet Powerful and
+            productive technology. Experience, then believe.
+          </p>
           <div className="flex flex-col justify-start m-0">
             <div className="flex justify-start items-center m-0">
-              <CheckSquare className="m-0 mr-1" size={10} />
+              <CheckSquare className="m-0 mr-2" size={10} />
               <p className="">Write some features here.</p>
             </div>
             <div className="flex justify-start items-center m-0">
-              <CheckSquare className="m-0 mr-1" size={10} />
+              <CheckSquare className="m-0 mr-2" size={10} />
               <p>Repat the same with another one.</p>
             </div>
             <div className="flex justify-start items-center m-0">
-              <CheckSquare className="m-0 mr-1" size={10} />
+              <CheckSquare className="m-0 mr-2" size={10} />
               <p>Write some features here.</p>
             </div>
           </div>
