@@ -3,7 +3,7 @@ import ButtonHeader from "./ButtonHeader";
 
 const Header = () => {
   return (
-    <div className="top-0 w-full absolute flex justify-between brightness-100">
+    <div className="max-w[1024px] mx-auto	top-0 w-full absolute flex justify-between brightness-100">
       <div className="p-4 px-8 flex">
         <img className="h-7 w-8" src="/assets/nubank.png" alt="nubank" />
       </div>

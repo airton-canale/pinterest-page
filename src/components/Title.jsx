@@ -1,4 +1,5 @@
 import React from "react";
+import ButtonWatchIntro from "./ButtonWatchIntro";
 
 const Title = () => {
   return (
@@ -10,7 +11,7 @@ const Title = () => {
         Re-targetin your audience with competitive inteligence embedded in
         Destiny. See it in action and then believe.
       </h4>
-      <button className="mt-4 rounded-sm bg-purple-600	px-4 py-2 font-ibm-plex font-bold tracking-wide">Watch Intro</button>
+      <ButtonWatchIntro />
     </div>
   );
 };

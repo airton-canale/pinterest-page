@@ -5,6 +5,8 @@
 
 * {
   box-sizing: border-box;
+  max-width: 1040px;
+  margin: 0 auto;
 }
 
 body {
