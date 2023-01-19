@@ -1,19 +1,19 @@
 const criteria = [
-    {
-        icon: "DeviceMobile",
-        title: "Highly Responsive",
-        text: "aaaaaa"
-    },
-    {
-        icon: "DeviceMobile",
-        title: "Built-in Security",
-        text: "bbbbbb"
-    },
-    {
-        icon: "DeviceMobile",
-        title: "Safety Locked",
-        text: "cccccc"
-    }
-]
+  {
+    icon: "DeviceMobile",
+    title: "Highly Responsive",
+    text: "id ius mutat gubergen, eros harum hendrerit ex eos, in quo vocibus inimigus gubergren. Experience, then believe.",
+  },
+  {
+    icon: "LockKey",
+    title: "Built-in Security",
+    text: "id ius mutat gubergen, eros harum hendrerit ex eos, in quo vocibus inimigus gubergren. Experience, then believe.",
+  },
+  {
+    icon: "ShieldCheck",
+    title: "Safety Locked",
+    text: "id ius mutat gubergen, eros harum hendrerit ex eos, in quo vocibus inimigus gubergren. Experience, then believe.",
+  },
+];
 
-export default criteria
+export default criteria;
