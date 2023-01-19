@@ -7,7 +7,7 @@ const StartupDesined = ({ inverted }) => {
     <div className="grid grid-cols-2 gap-12 p-20 bg-[#f3f3f3]">
       <div className="w-full">
         <img
-          className="w-full mix-blend-multiply -my-40"
+          className="w-full mix-blend-multiply -mb-40 mt-[-7rem]"
           src="/assets/design.webp"
           alt="a"
         />
